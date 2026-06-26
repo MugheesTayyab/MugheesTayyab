@@ -32,7 +32,11 @@ Outside of coursework and the internship, I run my own track: designing and ship
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,postgres,docker,git,linux,vscode,nextjs,fastapi,threejs&theme=dark" alt="Skills" />
 </p>
+### 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MugheesTayyab&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
